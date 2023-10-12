@@ -16,10 +16,7 @@ Display the process ID, burst time, waiting time and turnaround time for the cur
 Calculate the average waiting time and average turnaround time
 Stop the process
 ## PROGRAM:
-```
-DEVELOPED BY:GURUMOORTHI R
-RG NO:212222230042
-```
+
 ```
 # Get the number of processes from the user
 n = int(input("Enter number of processes: "))
